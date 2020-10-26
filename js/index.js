@@ -81,3 +81,5 @@ let ctaMiddleImage = document.querySelector("#middle-img");
 console.log(ctaMiddleImage)
 
 ctaMiddleImage.src = "img/mid-page-accent.jpg"
+
+// test
